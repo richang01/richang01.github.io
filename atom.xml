@@ -1,48 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Ben</title>
   
-  
+  <subtitle>I&#39;m Chen Haibin</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-01-17T07:12:12.197Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://imchenhaibin.gitee.io/"/>
+  <updated>2020-01-17T03:58:43.878Z</updated>
+  <id>https://imchenhaibin.gitee.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Hai bin</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test3</title>
-    <link href="http://yoursite.com/2020/01/938.html"/>
-    <id>http://yoursite.com/2020/01/938.html</id>
-    <published>2020-01-17T07:11:46.000Z</published>
-    <updated>2020-01-17T07:12:12.197Z</updated>
-    
-    <content type="html"><![CDATA[<p>test3</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;test3&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2020/01/f82e.html"/>
-    <id>http://yoursite.com/2020/01/f82e.html</id>
+    <link href="https://imchenhaibin.gitee.io/2020/01/f82e.html"/>
+    <id>https://imchenhaibin.gitee.io/2020/01/f82e.html</id>
     <published>2020-01-17T03:58:01.000Z</published>
     <updated>2020-01-17T03:58:43.878Z</updated>
     
@@ -63,85 +40,9 @@
   </entry>
   
   <entry>
-    <title>ben3</title>
-    <link href="http://yoursite.com/2020/01/d263.html"/>
-    <id>http://yoursite.com/2020/01/d263.html</id>
-    <published>2020-01-16T09:11:37.000Z</published>
-    <updated>2020-01-16T09:11:42.478Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>ben2</title>
-    <link href="http://yoursite.com/2020/01/12a2.html"/>
-    <id>http://yoursite.com/2020/01/12a2.html</id>
-    <published>2020-01-14T07:35:05.000Z</published>
-    <updated>2020-01-16T09:13:05.224Z</updated>
-    
-    <content type="html"><![CDATA[<p>ben2<br>2020年1月15日2020-1-15 09:47:18</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;ben2&lt;br&gt;2020年1月15日2020-1-15 09:47:18&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>ben1</title>
-    <link href="http://yoursite.com/2020/01/13e2.html"/>
-    <id>http://yoursite.com/2020/01/13e2.html</id>
-    <published>2020-01-14T07:33:32.000Z</published>
-    <updated>2020-01-16T09:13:05.222Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>ben</title>
-    <link href="http://yoursite.com/2020/01/620b.html"/>
-    <id>http://yoursite.com/2020/01/620b.html</id>
-    <published>2020-01-14T07:01:41.000Z</published>
-    <updated>2020-01-16T09:13:05.220Z</updated>
-    
-    <content type="html"><![CDATA[<p>:year<br>test</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;:year&lt;br&gt;test&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/3eeb.html"/>
-    <id>http://yoursite.com/2020/01/3eeb.html</id>
+    <link href="https://imchenhaibin.gitee.io/2020/01/3eeb.html"/>
+    <id>https://imchenhaibin.gitee.io/2020/01/3eeb.html</id>
     <published>2020-01-14T03:47:54.502Z</published>
     <updated>2020-01-16T09:13:05.225Z</updated>
     
