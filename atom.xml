@@ -5,9 +5,9 @@
   <subtitle>I&#39;m Chen Haibin</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://imchenhaibin.gitee.io/"/>
-  <updated>2020-01-17T03:58:43.878Z</updated>
-  <id>https://imchenhaibin.gitee.io/</id>
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-03T07:10:42.437Z</updated>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Hai bin</name>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test2</title>
+    <link href="http://yoursite.com/2020/04/c9f9.html"/>
+    <id>http://yoursite.com/2020/04/c9f9.html</id>
+    <published>2020-04-03T07:09:51.000Z</published>
+    <updated>2020-04-03T07:10:42.437Z</updated>
+    
+    <content type="html"><![CDATA[<p>test21111</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;test21111&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
-    <link href="https://imchenhaibin.gitee.io/2020/01/f82e.html"/>
-    <id>https://imchenhaibin.gitee.io/2020/01/f82e.html</id>
+    <link href="http://yoursite.com/2020/01/f82e.html"/>
+    <id>http://yoursite.com/2020/01/f82e.html</id>
     <published>2020-01-17T03:58:01.000Z</published>
     <updated>2020-01-17T03:58:43.878Z</updated>
     
@@ -41,8 +64,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://imchenhaibin.gitee.io/2020/01/3eeb.html"/>
-    <id>https://imchenhaibin.gitee.io/2020/01/3eeb.html</id>
+    <link href="http://yoursite.com/2020/01/3eeb.html"/>
+    <id>http://yoursite.com/2020/01/3eeb.html</id>
     <published>2020-01-14T03:47:54.502Z</published>
     <updated>2020-01-16T09:13:05.225Z</updated>
     
